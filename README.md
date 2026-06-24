@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👋 Hi, I'm <strong>Mohamed Elsherbini</strong> (N4P1x)</h1>
+  <h1>Hi, I'm Mohamed Elsherbini (N4P1x)</h1>
   
   <p>
-    <strong>Security Researcher & CTF Player @N!ghtM4re</strong> | 
-    <strong>DFIR</strong> | 
+    Security Researcher & CTF Player @N!ghtM4re | 
+    DFIR | 
     Building the next generation of offensive security tools
   </p>
 
@@ -15,29 +15,35 @@
 ### About Me
 
 Cybersecurity researcher and active CTF competitor from Egypt.  
-Member of **N!ghtM4re** — one of Egypt’s top CTF teams (**4th nationally**, **172nd worldwide** on CTFtime).
+Member of N!ghtM4re — one of Egypt’s top CTF teams (4th nationally, 172nd worldwide on CTFtime).
 
-Co-author of **Cyber-FIE** research paper, accepted at **ITC Egypt 2026 (IEEE)**.
+Co-author of the research paper **Cyber-FIE**, accepted at ITC Egypt 2026 (IEEE).
 
 ---
 
-### 🏆 Featured Research
+### Featured Research
 
 **Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**  
-*Accepted at ITC Egypt 2026 (IEEE)*
+Accepted at ITC Egypt 2026 (IEEE)
+
+- Developed a post-exploitation SIFI framework using C++ pointer arithmetic on ESP32
+- Achieved 12.3% critical failure rate across 3,560 hardware trials
+- Designed "Shield" SBFT defense with 94.2% state restoration
 
 ---
 
-### 🔥 Selected Projects
+### Selected Projects
 
-- **[Night-Watch](https://github.com/N4P1x/Night-Watch)** — Dark Web & Ransomware Threat Intelligence Platform
-- **[Malware-Hunter](https://github.com/N4P1x/Malware-Hunter)** — ML-Powered Malware Detection
-- **[YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther)** — Advanced ESP32 Wi-Fi Deauther
-- **[mini-ter](https://github.com/N4P1x/mini-ter)** — Custom Arch Linux + Hyprland Rice
+| Project              | Description                                              | Tech Stack                          |
+|----------------------|----------------------------------------------------------|-------------------------------------|
+| [Night-Watch](https://github.com/N4P1x/Night-Watch)     | Dark Web & Ransomware Threat Intelligence Platform      | FastAPI, React, Docker, Tor, Redis |
+| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | ML-Powered PE Malware Detection System                | Python, Flask, Scikit-learn, VirusTotal |
+| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool             | C++, ESP-IDF, Web UI               |
+| [mini-ter](https://github.com/N4P1x/mini-ter)           | Custom Arch Linux + Hyprland Rice                       | Wayland, Material You              |
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4P1x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -50,22 +56,31 @@ Co-author of **Cyber-FIE** research paper, accepted at **ITC Egypt 2026 (IEEE)**
 
 ---
 
-### 🛠️ Skills
+### Skills
 
-**Security:** Fault Injection (SIFI) • Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • Threat Intelligence • OT/ICS Security
+**Security**  
+Fault Injection (SIFI) • Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • OSINT • Threat Intelligence • OT/ICS Security
 
-**Technologies:** Python • C++ • FastAPI • React • Docker • ESP32 • Linux (Hyprland)
+**Technologies**  
+Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyprland) • Metasploit • Nmap
 
 ---
 
-### 📫 Let's Connect
+### Connect
 
-- **LinkedIn**: [Mohamed Elsherbini](https://www.linkedin.com/in/mohamed-elsherbini-41671b2b1)
-- **Website**: [n4p1.online](https://n4p1.online)
-- **Email**: Sh3rb1n1@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-elsherbini-41671b2b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://n4p1.online">
+    <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+**Email**: Sh3rb1n1@gmail.com
 
 ---
 
 <div align="center">
-  <i>"Exploiting systems. Securing knowledge."</i>
+  "Exploiting systems. Securing knowledge."
 </div>
