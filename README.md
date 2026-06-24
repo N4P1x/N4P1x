@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>>👋 Hi, I'm Mohamed Elsherbini (N4P1x)</h1>
+  <h1>Hi,👋 I'm Mohamed Elsherbini (N4P1x)</h1>
   
   <p>
     Security Researcher & CTF Player @N!ghtM4re | 
@@ -15,20 +15,20 @@
 ### About Me
 
 Cybersecurity researcher and active CTF competitor from Egypt.  
-Member of **N!ghtM4re** — one of Egypt’s top CTF teams (4th nationally, 172nd worldwide on CTFtime).
+Member of **N!ghtM4re** — one of Egypt’s top CTF teams, currently ranked **4th nationally** and **172nd worldwide** on CTFtime.
 
-Co-author of the research paper **Cyber-FIE**, accepted at ITC Egypt 2026 (IEEE).
+Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEEE)**.
 
 ---
 
 ### Featured Research
 
 **Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**  
-Accepted at ITC Egypt 2026 (IEEE)
+*Accepted at ITC Egypt 2026 (IEEE)*
 
-- Developed a post-exploitation SIFI framework using C++ pointer arithmetic on ESP32
-- Achieved 12.3% critical failure rate across 3,560 hardware trials
-- Designed "Shield" SBFT defense with 94.2% state restoration
+- Developed a post-exploitation Software-Induced Fault Injection (SIFI) framework using C++ pointer arithmetic on ESP32
+- Conducted 3,560 hardware trials, achieving a **12.3% critical failure rate**
+- Designed "**Shield**" — a lightweight Software-Based Fault Tolerance (SBFT) mechanism with **94.2% state restoration**
 
 ---
 
