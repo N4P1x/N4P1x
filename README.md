@@ -14,46 +14,58 @@
 
 ### About Me
 
-Cybersecurity researcher and CTF player from Egypt. Active member of **N!ghtM4re** (4th in Egypt, 172nd worldwide on CTFtime). 
+Cybersecurity researcher and active CTF competitor from Egypt.  
+Member of **N!ghtM4re** — one of Egypt’s top CTF teams (**4th nationally**, **172nd worldwide** on CTFtime).
 
-Co-author of **Cyber-FIE** research paper — accepted at **ITC Egypt 2026 (IEEE)**.
+Co-author of **Cyber-FIE** research paper, accepted at **ITC Egypt 2026 (IEEE)**.
 
 ---
 
-### Featured Research
+### 🏆 Featured Research
 
-**Cyber-FIE: Software-Induced Fault Injection Framework for AES-256 on ESP32**  
+**Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**  
 *Accepted at ITC Egypt 2026 (IEEE)*
 
 ---
 
-### Selected Projects
+### 🔥 Selected Projects
 
-- **[Night-Watch](https://github.com/N4P1x/Night-Watch)** — Threat Intelligence Platform (Dark Web / Ransomware)
-- **[Malware-Hunter](https://github.com/N4P1x/Malware-Hunter)** — ML Malware Detection
+- **[Night-Watch](https://github.com/N4P1x/Night-Watch)** — Dark Web & Ransomware Threat Intelligence Platform
+- **[Malware-Hunter](https://github.com/N4P1x/Malware-Hunter)** — ML-Powered Malware Detection
 - **[YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther)** — Advanced ESP32 Wi-Fi Deauther
-- **[mini-ter](https://github.com/N4P1x/mini-ter)** — Arch Linux + Hyprland Rice
+- **[mini-ter](https://github.com/N4P1x/mini-ter)** — Custom Arch Linux + Hyprland Rice
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4P1x&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4P1x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4P1x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=3" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### Skills
+### 🛠️ Skills
 
-**Security:** Fault Injection • Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • Threat Intelligence
+**Security:** Fault Injection (SIFI) • Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • Threat Intelligence • OT/ICS Security
 
-**Tech:** Python • C++ • FastAPI • React • Docker • ESP32 • Linux
+**Technologies:** Python • C++ • FastAPI • React • Docker • ESP32 • Linux (Hyprland)
 
 ---
 
-### Connect
+### 📫 Let's Connect
 
 - **LinkedIn**: [Mohamed Elsherbini](https://www.linkedin.com/in/mohamed-elsherbini-41671b2b1)
 - **Website**: [n4p1.online](https://n4p1.online)
 - **Email**: Sh3rb1n1@gmail.com
+
+---
+
+<div align="center">
+  <i>"Exploiting systems. Securing knowledge."</i>
+</div>
