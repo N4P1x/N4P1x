@@ -15,7 +15,7 @@
 ### About Me
 
 Cybersecurity researcher and active CTF competitor from Egypt.  
-Member of N!ghtM4re — one of Egypt’s top CTF teams (4th nationally, 172nd worldwide on CTFtime).
+Member of **N!ghtM4re** — one of Egypt’s top CTF teams (4th nationally, 172nd worldwide on CTFtime).
 
 Co-author of the research paper **Cyber-FIE**, accepted at ITC Egypt 2026 (IEEE).
 
@@ -51,8 +51,10 @@ Accepted at ITC Egypt 2026 (IEEE)
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=N4P1x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+### Contribution Graph
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=3" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/?username=N4P1x&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
