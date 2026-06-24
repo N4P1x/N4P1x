@@ -15,9 +15,9 @@
 ### About Me
 
 Cybersecurity researcher and active CTF competitor from Egypt.  
-Member of **N!ghtM4re** — one of Egypt’s top CTF teams (4th nationally, 172nd worldwide on CTFtime).
+Active member of **N!ghtM4re**, one of Egypt’s leading CTF teams — currently ranked **4th nationally** and **172nd worldwide** on CTFtime.
 
-Co-author of the research paper **Cyber-FIE**, accepted at ITC Egypt 2026 (IEEE).
+Co-author of the academic paper **Cyber-FIE**, accepted for publication at **ITC Egypt 2026 (IEEE)**.
 
 ---
 
@@ -26,20 +26,20 @@ Co-author of the research paper **Cyber-FIE**, accepted at ITC Egypt 2026 (IEEE)
 **Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**  
 Accepted at ITC Egypt 2026 (IEEE)
 
-- Developed a post-exploitation SIFI framework using C++ pointer arithmetic on ESP32
-- Achieved 12.3% critical failure rate across 3,560 hardware trials
-- Designed "Shield" SBFT defense with 94.2% state restoration
+- Designed and implemented a post-exploitation Software-Induced Fault Injection (SIFI) framework targeting AES-256 on ESP32-D0WDQ6
+- Conducted 3,560 hardware trials, achieving a 12.3% critical key schedule failure rate
+- Developed "Shield", a lightweight Software-Based Fault Tolerance (SBFT) mechanism with 94.2% state restoration rate
 
 ---
 
 ### Selected Projects
 
-| Project              | Description                                              | Tech Stack                          |
-|----------------------|----------------------------------------------------------|-------------------------------------|
-| [Night-Watch](https://github.com/N4P1x/Night-Watch)     | Dark Web & Ransomware Threat Intelligence Platform      | FastAPI, React, Docker, Tor, Redis |
-| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | ML-Powered PE Malware Detection System                | Python, Flask, Scikit-learn, VirusTotal |
-| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool             | C++, ESP-IDF, Web UI               |
-| [mini-ter](https://github.com/N4P1x/mini-ter)           | Custom Arch Linux + Hyprland Rice                       | Wayland, Material You              |
+| Project                        | Description                                                      | Tech Stack                              |
+|--------------------------------|------------------------------------------------------------------|-----------------------------------------|
+| [Night-Watch](https://github.com/N4P1x/Night-Watch)           | Dark Web & Ransomware Threat Intelligence Platform              | FastAPI, React, Docker, Tor, Redis     |
+| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter)     | Machine Learning-based PE Malware Detection System              | Python, Flask, Scikit-learn, VirusTotal|
+| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther)     | Advanced ESP32 Wi-Fi Deauthentication Tool                      | C++, ESP-IDF, Web Interface            |
+| [mini-ter](https://github.com/N4P1x/mini-ter)                 | Highly customized Arch Linux + Hyprland environment             | Wayland, Material You Theming          |
 
 ---
 
@@ -53,20 +53,10 @@ Accepted at ITC Egypt 2026 (IEEE)
 
 ---
 
-### CTF Team
-
-<div align="center">
-  <a href="https://ctftime.org/team/418706">
-    <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFtime Team"/>
-  </a>
-</div>
-
----
-
 ### Skills
 
 **Security**  
-Fault Injection (SIFI) • Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • OSINT • Threat Intelligence • OT/ICS Security
+Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • OSINT • Threat Intelligence • OT/ICS Security
 
 **Technologies**  
 Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyprland) • Metasploit • Nmap
@@ -84,6 +74,9 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
   </a>
   <a href="mailto:Sh3rb1n1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Sh3rb1n1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://ctftime.org/team/418706">
+    <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFtime"/>
   </a>
 </div>
 
