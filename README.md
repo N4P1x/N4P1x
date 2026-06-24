@@ -51,10 +51,14 @@ Accepted at ITC Egypt 2026 (IEEE)
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=N4P1x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-### Contribution Graph
+---
+
+### CTF Team
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/?username=N4P1x&theme=tokyonight&hide_border=true" alt="Contribution Graph"/>
+  <a href="https://ctftime.org/team/418706">
+    <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFtime Team"/>
+  </a>
 </div>
 
 ---
@@ -78,9 +82,10 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
   <a href="https://n4p1.online">
     <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
+  <a href="mailto:Sh3rb1n1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Sh3rb1n1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
-
-**Email**: Sh3rb1n1@gmail.com
 
 ---
 
