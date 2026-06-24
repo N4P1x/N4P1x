@@ -48,6 +48,7 @@ Accepted at ITC Egypt 2026 (IEEE)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4P1x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4P1x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=N4P1x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
