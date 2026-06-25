@@ -44,35 +44,7 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 | [mini-ter](https://github.com/N4P1x/mini-ter) | ![](https://img.shields.io/github/stars/N4P1x/mini-ter?style=flat&label=) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
 | [Writeups](https://github.com/N4P1x/Writeups) | ![](https://img.shields.io/github/stars/N4P1x/Writeups?style=flat&label=) | CTF Writeups — 19 challenges across 3 CTFs | Markdown, Python |
 
----
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N4P1x&theme=tokyonight" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N4P1x&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N4P1x&theme=tokyonight" width="49%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N4P1x&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N4P1x&theme=tokyonight&utcOffset=2" width="49%" />
-
-</div>
-
----
-
-## Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
-</div>
 
 ---
 
