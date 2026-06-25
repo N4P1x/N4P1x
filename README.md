@@ -12,7 +12,7 @@
 
 ---
 
-### About Me
+## About Me
 
 Cybersecurity researcher and active CTF competitor from Egypt.
 
@@ -22,9 +22,9 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 ---
 
-### Featured Research
+## Featured Research
 
-**Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**
+### Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32
 
 *Accepted at ITC Egypt 2026 (IEEE)*
 
@@ -34,7 +34,7 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 ---
 
-### Selected Projects
+## Selected Projects
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
@@ -42,11 +42,11 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 | [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | Machine Learning-based PE Malware Detection System | Python, Flask, Scikit-learn, VirusTotal |
 | [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool | C++, ESP-IDF, Web Interface |
 | [mini-ter](https://github.com/N4P1x/mini-ter) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
-| [Writeups](https://github.com/N4P1x/Writeups) | CTF Writeups from GPN, HTB University CTF, and SecLeaf covering Crypto, Pwn, Reverse Engineering, Web Security, Forensics, OSINT, and more | Markdown, Python |
+| [Writeups](https://github.com/N4P1x/Writeups) | N4P1's CTF Writeups — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | Markdown, Python |
 
 ---
 
-### GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4P1x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
@@ -56,34 +56,34 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 ---
 
-### Skills
+## Skills
 
-**Security**
+### Security
 
 Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • OSINT • Threat Intelligence • OT/ICS Security
 
-**Technologies**
+### Technologies
 
 Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyprland) • Metasploit • Nmap
 
 ---
 
-### Connect
+## Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elsherbini-41671b2b1" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-elsherbini-41671b2b1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://n4p1.online" target="_blank">
+  <a href="https://n4p1.online">
     <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
 
-  <a href="mailto:Sh3rb1n1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Sh3rb1n1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:Sh3rb1n1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://ctftime.org/team/418706" target="_blank">
+  <a href="https://ctftime.org/team/418706">
     <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge" alt="CTFtime"/>
   </a>
 </div>
@@ -91,5 +91,5 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
 ---
 
 <div align="center">
-  <i>"Exploiting systems. Securing knowledge."</i>
+  <b><i>"Exploiting systems. Securing knowledge."</i></b>
 </div>
