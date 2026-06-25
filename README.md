@@ -32,6 +32,10 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 - Conducted 3,560 hardware trials, achieving a **12.3% critical failure rate**
 - Designed **"Shield"** — a lightweight Software-Based Fault Tolerance (SBFT) mechanism with **94.2% state restoration**
 
+**[📄 View Paper](https://github.com/N4P1x/Research-Papers) · [⬇ Download PDF](https://github.com/N4P1x/Research-Papers/raw/master/Cyber-FIE.pdf)**
+
+
+
 ---
 
 ## Selected Projects
