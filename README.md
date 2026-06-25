@@ -10,14 +10,13 @@
 </div>
 ---
 ### About Me
-Cybersecurity researcher and active CTF competitor from Egypt.  
-Member of **N!ghtM4re** — one of Egypt’s top CTF teams, currently ranked **4th nationally** and **172nd worldwide** on CTFtime.  
+Cybersecurity researcher and active CTF competitor from Egypt.
+Member of **N!ghtM4re** — one of Egypt’s top CTF teams, currently ranked **4th nationally** and **172nd worldwide** on CTFtime.
 Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEEE)**.
 ---
 ### Featured Research
-**Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**  
+**Cyber-FIE: A Software-Induced Memory Fault Injection Framework for Evaluating AES-256 Resilience on ESP32**
 *Accepted at ITC Egypt 2026 (IEEE)*
-
 - Developed a post-exploitation Software-Induced Fault Injection (SIFI) framework using C++ pointer arithmetic on ESP32
 - Conducted 3,560 hardware trials, achieving a **12.3% critical failure rate**
 - Designed "**Shield**" — a lightweight Software-Based Fault Tolerance (SBFT) mechanism with **94.2% state restoration**
@@ -31,7 +30,6 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 | [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool | C++, ESP-IDF, Web Interface |
 | [mini-ter](https://github.com/N4P1x/mini-ter) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
 | **[Writeups](https://github.com/N4P1x/Writeups)** | **N4P1's CTF Writeups** — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | Markdown, Python |
-
 ---
 ### GitHub Statistics
 <div align="center">
@@ -41,10 +39,9 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 </div>
 ---
 ### Skills
-**Security**  
+**Security**
 Ethical Hacking • Reverse Engineering • Malware Analysis • DFIR • Wireless Security • OSINT • Threat Intelligence • OT/ICS Security
-
-**Technologies**  
+**Technologies**
 Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyprland) • Metasploit • Nmap
 ---
 ### Connect
@@ -66,3 +63,4 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
 <div align="center">
   "Exploiting systems. Securing knowledge."
 </div>
+add this repo to it https://github.com/N4P1x/Writeups
