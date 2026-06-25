@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi,👋 I'm Mohamed Elsherbini (N4P1x)</h1>
+  <h1>Hi,👋 I'm Mohamed Elsherbini (N4P1)</h1>
   
   <p>
     Security Researcher & CTF Player @N!ghtM4re | 
