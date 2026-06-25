@@ -46,17 +46,41 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4P1x&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N4P1x&theme=tokyonight" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N4P1x&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N4P1x&theme=tokyonight" width="49%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N4P1x&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N4P1x&theme=tokyonight&utcOffset=2" width="49%" />
+
 </div>
 
-<br>
+---
+
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4P1x&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N4P1x/N4P1x/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
