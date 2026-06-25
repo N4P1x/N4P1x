@@ -71,7 +71,7 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 ## Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 </div>
 
 ---
