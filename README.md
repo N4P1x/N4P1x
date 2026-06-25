@@ -130,7 +130,7 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
 
 <div align="center">
   <a href="https://ctftime.org/team/418706">
-    <img src="https://img.shields.io/badge/dynamic/json?color=FF2D55&label=CTFtime%20Rank&query=%24.rating_rank&url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F418706%2F" alt="CTFtime Rank"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=FF2D55&label=CTFtime%20Rank&query=%24.rating.2026.rating_place&url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F418706%2F" alt="CTFtime Rank"/>
   </a>
 </div>
 
