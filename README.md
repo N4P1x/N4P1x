@@ -28,7 +28,7 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 | [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | Machine Learning-based PE Malware Detection System | Python, Flask, Scikit-learn, VirusTotal|
 | [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool | C++, ESP-IDF, Web Interface |
 | [mini-ter](https://github.com/N4P1x/mini-ter) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
-| **[Writeups](https://github.com/N4P1x/Writeups)** | **CTF Writeups Collection** — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | **Markdown, Python** |
+| **[Writeups](https://github.com/N4P1x/Writeups)** | **N4P1's CTF Writeups** — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | **Markdown, Python** |
 
 ---
 ### GitHub Statistics
