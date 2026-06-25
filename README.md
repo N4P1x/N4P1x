@@ -16,7 +16,7 @@
 
 Cybersecurity researcher and active CTF competitor from Egypt.
 
-Member of **N!ghtM4re** — one of Egypt's top CTF teams, currently ranked **4th nationally** and **172nd worldwide** on CTFtime.
+Member of **N!ghtM4re** — one of Egypt's top CTF teams, currently ranked **4th nationally** and **90th worldwide** on CTFtime.
 
 Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEEE)**.
 
