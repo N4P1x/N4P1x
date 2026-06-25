@@ -16,7 +16,7 @@
 
 Cybersecurity researcher and active CTF competitor from Egypt.
 
-Member of **N!ghtM4re** — one of Egypt’s top CTF teams, currently ranked **4th nationally** and **172nd worldwide** on CTFtime.
+Member of **N!ghtM4re** — one of Egypt's top CTF teams, currently ranked **4th nationally** and **172nd worldwide** on CTFtime.
 
 Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEEE)**.
 
@@ -36,13 +36,13 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 ## Selected Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| [Night-Watch](https://github.com/N4P1x/Night-Watch) | Dark Web & Ransomware Threat Intelligence Platform | FastAPI, React, Docker, Tor, Redis |
-| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | Machine Learning-based PE Malware Detection System | Python, Flask, Scikit-learn, VirusTotal |
-| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool | C++, ESP-IDF, Web Interface |
-| [mini-ter](https://github.com/N4P1x/mini-ter) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
-| [Writeups](https://github.com/N4P1x/Writeups) | N4P1's CTF Writeups — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | Markdown, Python |
+| Project | Stars | Description | Tech Stack |
+|----------|-------|-------------|------------|
+| [Night-Watch](https://github.com/N4P1x/Night-Watch) | ![](https://img.shields.io/github/stars/N4P1x/Night-Watch?style=flat&label=) | Dark Web & Ransomware Threat Intelligence Platform | FastAPI, React, Docker, Tor, Redis |
+| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | ![](https://img.shields.io/github/stars/N4P1x/Malware-Hunter?style=flat&label=) | ML-based PE Malware Detection System | Python, Flask, Scikit-learn, VirusTotal |
+| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | ![](https://img.shields.io/github/stars/N4P1x/YoRHa-Deauther?style=flat&label=) | Advanced ESP32 Wi-Fi Deauthentication Tool | C++, ESP-IDF, Web Interface |
+| [mini-ter](https://github.com/N4P1x/mini-ter) | ![](https://img.shields.io/github/stars/N4P1x/mini-ter?style=flat&label=) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
+| [Writeups](https://github.com/N4P1x/Writeups) | ![](https://img.shields.io/github/stars/N4P1x/Writeups?style=flat&label=) | CTF Writeups — 19 challenges across 3 CTFs | Markdown, Python |
 
 ---
 
@@ -68,19 +68,31 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 ---
 
-## Contribution Activity
+## Trophy Case
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4P1x&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=N4P1x&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 </div>
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=N4P1x&theme=tokyo-night&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=N4P1x&theme=github-light&hide_border=true" />
+  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=N4P1x&theme=tokyo-night&hide_border=true" width="100%" />
+</picture>
 
 ---
 
 ## Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/N4P1x/N4P1x/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N4P1x/N4P1x/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N4P1x/N4P1x/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/N4P1x/N4P1x/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -113,6 +125,12 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
 
   <a href="https://ctftime.org/team/418706">
     <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge" alt="CTFtime"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://ctftime.org/team/418706">
+    <img src="https://img.shields.io/badge/dynamic/json?color=FF2D55&label=CTFtime%20Rank&query=%24.rating_rank&url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F418706%2F" alt="CTFtime Rank"/>
   </a>
 </div>
 
