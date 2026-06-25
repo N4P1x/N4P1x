@@ -124,13 +124,11 @@ Python • C++ • FastAPI • React • Docker • ESP32/ESP-IDF • Linux (Hyp
   </a>
 
   <a href="https://ctftime.org/team/418706">
-    <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge" alt="CTFtime"/>
+    <img src="https://img.shields.io/badge/CTFtime-N!ghtM4re-FF2D55?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTMyIDJMMTAgMTJ2MThjMCAxNi4yIDEwLjYgMzEuNCAyMiAzNiAxMS40LTQuNiAyMi0xOS44IDIyLTM2VjEyTDMyIDJ6bTAgNThjLTguMi0zLjQtMTYtMTUuMi0xNi0yOFYxNWwxNi02IDE2IDZ2MTdjMCAxMi44LTcuOCAyNC42LTE2IDI4eiIvPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjMgMjhsLTMgM2w3IDdsMTQtMTRsLTMtM2wtMTEgMTF6Ii8+PC9zdmc+" alt="CTFtime"/>
   </a>
-</div>
 
-<div align="center">
   <a href="https://ctftime.org/team/418706">
-    <img src="https://img.shields.io/badge/dynamic/json?color=FF2D55&label=CTFtime%20Rank&query=%24.rating.2026.rating_place&url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F418706%2F" alt="CTFtime Rank"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=FF2D55&label=World%20Rank&query=%24.rating.2026.rating_place&url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F418706%2F&style=for-the-badge&suffix=%20worldwide" alt="CTFtime Rank"/>
   </a>
 </div>
 
