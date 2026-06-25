@@ -28,21 +28,21 @@ Co-author of the research paper **Cyber-FIE**, accepted at **ITC Egypt 2026 (IEE
 
 *Accepted at ITC Egypt 2026 (IEEE)*
 
-- Developed a post-exploitation Software-Induced Fault Injection (SIFI) framework using C++ pointer arithmetic on ESP32
-- Conducted 3,560 hardware trials, achieving a **12.3% critical failure rate**
-- Designed **"Shield"** — a lightweight Software-Based Fault Tolerance (SBFT) mechanism with **94.2% state restoration**
+* Developed a post-exploitation Software-Induced Fault Injection (SIFI) framework using C++ pointer arithmetic on ESP32
+* Conducted 3,560 hardware trials, achieving a **12.3% critical failure rate**
+* Designed **"Shield"** — a lightweight Software-Based Fault Tolerance (SBFT) mechanism with **94.2% state restoration**
 
 ---
 
 ## Selected Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| [Night-Watch](https://github.com/N4P1x/Night-Watch) | Dark Web & Ransomware Threat Intelligence Platform | FastAPI, React, Docker, Tor, Redis |
-| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | Machine Learning-based PE Malware Detection System | Python, Flask, Scikit-learn, VirusTotal |
-| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool | C++, ESP-IDF, Web Interface |
-| [mini-ter](https://github.com/N4P1x/mini-ter) | Custom Arch Linux + Hyprland Rice | Wayland, Material You |
-| [Writeups](https://github.com/N4P1x/Writeups) | N4P1's CTF Writeups — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | Markdown, Python |
+| Project                                                   | Description                                                                                                           | Tech Stack                              |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [Night-Watch](https://github.com/N4P1x/Night-Watch)       | Dark Web & Ransomware Threat Intelligence Platform                                                                    | FastAPI, React, Docker, Tor, Redis      |
+| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | Machine Learning-based PE Malware Detection System                                                                    | Python, Flask, Scikit-learn, VirusTotal |
+| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | Advanced ESP32 Wi-Fi Deauthentication Tool                                                                            | C++, ESP-IDF, Web Interface             |
+| [mini-ter](https://github.com/N4P1x/mini-ter)             | Custom Arch Linux + Hyprland Rice                                                                                     | Wayland, Material You                   |
+| [Writeups](https://github.com/N4P1x/Writeups)             | N4P1's CTF Writeups — 19 challenges across 3 CTFs (GPN, HTB, SecLeaf) covering Crypto, Pwn, RE, Forensics, Web & more | Markdown, Python                        |
 
 ---
 
