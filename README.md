@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/N4P1x/N4P1x/main/assets/header.svg" alt="N4P1 - dark web monitoring, threat hunting, DFIR" width="100%" />
+
 # Mohamed Elsherbini
 
-`N4P1` · Security researcher · Embedded systems · CTF
+Security researcher in Egypt. I build tooling for the defensive side: collecting signal from ransomware leak sites and underground forums, hunting for intrusions, and turning both into something an analyst can use.
 
-[research](#research) · [work](#work) · [toolbox](#toolbox) · [activity](#activity) · [elsewhere](#elsewhere)
+[focus](#focus) · [work](#work) · [research](#research) · [toolbox](#toolbox) · [activity](#activity) · [elsewhere](#elsewhere)
 
 [![IEEE ITC-Egypt 2026](https://img.shields.io/badge/IEEE%20ITC--Egypt%202026-Published-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11765755)
 [![N!ghtM4re world rank](https://img.shields.io/badge/dynamic/json?color=FF2D55&label=N!ghtM4re%20world%20rank&query=%24.rating.2026.rating_place&url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F418706%2F&style=flat-square)](https://ctftime.org/team/418706)
@@ -13,13 +15,36 @@
 
 ---
 
-## About
+## Focus
 
-Security researcher based in Egypt. I work on embedded systems and applied cryptography — specifically what happens to AES when the microcontroller running it is forced into corrupted states, and how much can be recovered without any hardware attack equipment.
+| | |
+|:---|:---|
+| **Dark web monitoring** | Ransomware leak sites, hacker forums, underground chatter — collected, parsed, and turned into IOCs and alerts that can actually be actioned. |
+| **Threat hunting** | Hypothesis-led hunting across telemetry, mapping activity to TTPs, and turning what turns up into detections that hold. |
+| **DFIR & malware** | PE triage, malware analysis, reverse engineering, incident response. CTFs with [N!ghtM4re](https://ctftime.org/team/418706) — 4th in Egypt — keep the reps in. |
 
-I compete with [N!ghtM4re](https://ctftime.org/team/418706) (4th in Egypt, top 100 worldwide) and build open-source tooling for threat intelligence, malware analysis, and wireless security.
+I also publish peer-reviewed research on embedded systems security; that paper is [below](#research).
 
-**Now** — Cyber-FIE published at IEEE ITC-Egypt 2026 · active in CTFs · maintaining [Night-Watch](https://github.com/N4P1x/Night-Watch).
+---
+
+## Work
+
+### [Night-Watch](https://github.com/N4P1x/Night-Watch)
+
+Dark web and ransomware threat intelligence platform. Actively maintained.
+
+- Monitors ransomware leak sites, hacker forums, and dark web threat sources
+- Automated IOC extraction and real-time alerting
+- Tor-aware collection, FastAPI backend, React dashboard, Redis, Docker
+
+### Also built
+
+| Project | What it does | Built with |
+|:---|:---|:---|
+| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | PE header analysis with machine learning, enriched with VirusTotal, behind a web UI. | `Python` `Flask` `scikit-learn` `VirusTotal` |
+| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | ESP32 Wi-Fi deauthentication testing with a browser interface, built on ESP-IDF. | `C++` `ESP-IDF` `Web UI` |
+| [mini-ter](https://github.com/N4P1x/mini-ter) | Arch Linux + Hyprland desktop with a Material You theming engine. | `Shell` `Wayland` `Hyprland` |
+| [Writeups](https://github.com/N4P1x/Writeups) | 19 challenges from GPN, HackTheBox, and SecLeaf — crypto, pwn, reverse, forensics, web. | `Markdown` `Python` |
 
 ---
 
@@ -65,23 +90,11 @@ A. E. Takieldeen, Z. A. Mashaly, **M. H. El Sherbini**, H. M. Attia, S. H. Hagag
 
 ---
 
-## Work
-
-| Project | What it does | Built with |
-|:---|:---|:---|
-| [Night-Watch](https://github.com/N4P1x/Night-Watch) | Dark web and ransomware monitoring. Collects leak-site and forum data, extracts IOCs, and alerts in real time. | `FastAPI` `React` `Redis` `Docker` `Tor` |
-| [Malware-Hunter](https://github.com/N4P1x/Malware-Hunter) | PE header analysis with machine learning, enriched with VirusTotal, behind a web UI. | `Python` `Flask` `scikit-learn` `VirusTotal` |
-| [YoRHa-Deauther](https://github.com/N4P1x/YoRHa-Deauther) | ESP32 Wi-Fi deauthentication testing with a browser interface, built on ESP-IDF. | `C++` `ESP-IDF` `Web UI` |
-| [mini-ter](https://github.com/N4P1x/mini-ter) | Arch Linux + Hyprland desktop with a Material You theming engine. | `Shell` `Wayland` `Hyprland` |
-| [Writeups](https://github.com/N4P1x/Writeups) | 19 challenges from GPN, HackTheBox, and SecLeaf — crypto, pwn, reverse, forensics, web. | `Markdown` `Python` |
-
----
-
 ## Toolbox
 
-**Build** — `Python` `C++` `Shell` `ESP32 / ESP-IDF` `FastAPI` `React` `Docker` `Linux` `Hyprland`
+**Intel & hunting** — dark web collection · IOC extraction · threat intelligence · OSINT · threat hunting · SOC workflows · DFIR · malware analysis · reverse engineering · wireless · OT/ICS
 
-**Security** — fault injection · reverse engineering · malware analysis · DFIR · wireless security · OSINT · threat intelligence · OT/ICS · `Nmap` `Metasploit`
+**Build** — `Python` `FastAPI` `React` `Redis` `Docker` `Tor` `C++` `ESP32 / ESP-IDF` `Shell` `Linux` `Hyprland` `Nmap` `Metasploit`
 
 ---
 
